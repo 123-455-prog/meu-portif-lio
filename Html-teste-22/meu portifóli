@@ -13,7 +13,7 @@
 
 <header>
         <div class="user">
-            <img src="" alt="">
+            <img src="eu.jpeg" alt="">
             <h3 class="name">Gabriel Bueno</h3>
             <p class="post">Desenvolvedor de front end</p>
         </div>
